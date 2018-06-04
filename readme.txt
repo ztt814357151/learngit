@@ -7,5 +7,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 add merge
 ztt 
-»¹ÐÐ²»ÐÐ
-学校
+��
